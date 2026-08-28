@@ -2,6 +2,12 @@
 
 > Um bom alinhamento habilita uma boa execução.
 
+## Índice
+
+- [Trabalho](./trabalho.md).
+- [Harness](./harness.md).
+- [SDLC](./sdlc.md).
+
 ## O Que
 
 O handbook é um conjunto de padrões e práticas de desenvolvimento que uso em meus projetos pessoais. Estes padrões e práticas são baseados na minha experiência pessoal.
