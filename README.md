@@ -2,15 +2,15 @@
 
 > Um bom alinhamento habilita uma boa execução.
 
-## O Que É
+## O Que
 
 O handbook é um conjunto de padrões e práticas de desenvolvimento que uso em meus projetos pessoais. Estes padrões e práticas são baseados na minha experiência pessoal.
 
-## Por Que É importante
+## Por Que
 
 O handbook é importante para desenvolver e entregar software com velocidade e qualidade. O handbook também é importante para alinhar humanos e agentes de IA, para um ambiente de desenvolvimento acelerado com IA produtivo e seguro (Harness).
 
-## Como Funciona
+## Como
 
 O handbook é estruturado como páginas organizadas em grupos, usando esta estrutura:
 
@@ -29,15 +29,15 @@ Cada página é um arquivo Markdown, estruturado como:
 ```markdown
 # TÍTULO DA PÁGINA
 
-## O Que É
+## O Que
 
 Descrição do assunto, em dois ou três parágrafos.
 
-## Por Que É Importante
+## Por Que
 
 Importância do assunto, em dois ou três parágrafos.
 
-## Como Funciona
+## Como
 
 Descrição do assunto, usando quantos parágrafos forem necessários. Podem ser organizados em seções específicas.
 ```
