@@ -144,6 +144,14 @@ Depois da sessão:
 
 #### Fluxo
 
+Fluxo padrão:
+
+- Backlog: trabalho que deve ser feito.
+- WIP: trabalho em progresso.
+- Done: trabalho feito.
+
+Fluxo alternativo:
+
 - Backlog: trabalho que deve ser feito.
 - In Planning: trabalho em planejamento.
 - In Design: trabalho em design.
