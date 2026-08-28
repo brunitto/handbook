@@ -1,4 +1,4 @@
-# WORK
+# TRABALHO
 
 > Um bom alinhamento habilita uma boa execução.
 
