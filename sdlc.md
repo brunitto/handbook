@@ -2,17 +2,17 @@
 
 > Um bom alinhamento habilita uma boa execução.
 
-## O Que É
+## O Que
 
 O SDLC define as atividades e artefatos de todo o ciclo de vida de desenvolvimento de software. Este SDLC é baseado na minha experiência pessoal.
 
 Por definição, este SDLC é adaptado para um ambiente de desenvolvimento acelerado por IA (Harness).
 
-## Por Que É Importante
+## Por Que
 
 O SDLC é importante para criar consistência no trabalho entre as pessoas e agentes de IA. O SDLC também ajuda na camada de _feedforward_ do Harness.
 
-## Como Funciona
+## Como
 
 ### Resumo
 
