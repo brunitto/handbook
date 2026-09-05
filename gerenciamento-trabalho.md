@@ -1,4 +1,4 @@
-# TRABALHO
+# GERENCIAMENTO DE TRABALHO
 
 > Um bom alinhamento habilita uma boa execução.
 
