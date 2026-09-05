@@ -16,6 +16,14 @@ O handbook é um conjunto de padrões e práticas de desenvolvimento que uso em 
 
 O handbook é importante para desenvolver e entregar software com velocidade e qualidade. O handbook também é importante para alinhar humanos e agentes de IA, para um ambiente de desenvolvimento acelerado com IA produtivo e seguro (Harness).
 
+Algumas vantagens:
+
+- Ler é mais rápido do que ouvir.
+- Ler é assíncrono, você não precisa interromper ou esperar as pessoas.
+- Discutir mudanças é mais fácil se você pode ler como funciona atualmente.
+- Comunicar mudanças é mais fácil se você pode mostrar as diferenças.
+- Todas as pessoas podem colaborar sugerindo alterações através de uma PR.
+
 ## Como
 
 O handbook é estruturado como páginas organizadas em grupos, usando esta estrutura:
