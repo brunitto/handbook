@@ -22,10 +22,10 @@ O handbook é estruturado como páginas organizadas em grupos, usando esta estru
 
 ```plaintext
 handbook/
-  <group-name>/
-    page-title.md
-    <group-name>/
-      page-title.md
+  <nome-grupo>/
+    titulo-pagina.md
+    <nome-grupo>/
+      titulo-pagina.md
 ```
 
 Cada grupo é um diretório que pode conter páginas ou outros grupos.
